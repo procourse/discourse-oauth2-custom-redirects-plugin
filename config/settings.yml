@@ -1,0 +1,6 @@
+login:
+  oauth2_custom_redirects_enabled:
+    default: true
+    client: true
+  oauth2_signup_url:
+    default: ""

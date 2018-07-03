@@ -1,0 +1,4 @@
+en:
+  site_settings:
+    oauth2_custom_redirects_enabled: "Enable custom signup and login redirect url?"
+    oauth2_signup_url: "Signup redirect url"
