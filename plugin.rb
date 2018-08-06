@@ -1,7 +1,7 @@
 # name: oauth2-custom-redirects
 # version: 0.1
 # author: Muhlis Budi Cahyono
-# url: https://github.com/procourse/discourse-constellation-oauth2-custom-redirects-plugin
+# url: https://github.com/procourse/discourse-oauth2-custom-redirects-plugin
 
 enabled_site_setting :oauth2_custom_redirects_enabled
 

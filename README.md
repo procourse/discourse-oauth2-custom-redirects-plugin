@@ -1,1 +1,1 @@
-# discourse-constellation-oauth2-custom-redirects-plugin
+# discourse-oauth2-custom-redirects-plugin
